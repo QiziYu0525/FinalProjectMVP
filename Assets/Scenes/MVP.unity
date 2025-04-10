@@ -5916,7 +5916,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 49b187eee7e7e8e42a39f1cb24df4372, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -132.55208
+      value: -135.63
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 49b187eee7e7e8e42a39f1cb24df4372, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5954,10 +5954,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Remy@Running (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 49b187eee7e7e8e42a39f1cb24df4372, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5866666021909216657, guid: 49b187eee7e7e8e42a39f1cb24df4372, type: 3}
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: f545c41550050974db0fbac693a21656, type: 2}
+    - target: {fileID: 5866666021909216657, guid: 49b187eee7e7e8e42a39f1cb24df4372, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
