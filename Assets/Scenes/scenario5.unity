@@ -33080,7 +33080,7 @@ Transform:
   m_GameObject: {fileID: 1237790254}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 6.6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -33103,7 +33103,7 @@ MonoBehaviour:
   _maxSelectingInteractors: -1
   _data: {fileID: 0}
   _pointableElement: {fileID: 1237790258}
-  _rigidbody: {fileID: 5928757486837817827}
+  _rigidbody: {fileID: 706409443}
   _grabSource: {fileID: 0}
   _useClosestPointAsGrabSource: 0
   _releaseDistance: 0
@@ -33126,7 +33126,7 @@ MonoBehaviour:
   _maxSelectingInteractors: -1
   _data: {fileID: 0}
   _pointableElement: {fileID: 1237790258}
-  _rigidbody: {fileID: 5928757486837817827}
+  _rigidbody: {fileID: 706409443}
   _physicsGrabbable: {fileID: 0}
   _resetGrabOnGrabsUpdated: 1
   _scoringModifier:
@@ -33169,7 +33169,7 @@ MonoBehaviour:
   _twoGrabTransformer: {fileID: 0}
   _targetTransform: {fileID: 5491333387580962081}
   _maxGrabPoints: -1
-  _rigidbody: {fileID: 5928757486837817827}
+  _rigidbody: {fileID: 706409443}
   _kinematicWhileSelected: 1
   _throwWhenUnselected: 1
 --- !u!114 &1237790259
