@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tablet prop
+* source:	https://sketchfab.com/3d-models/tablet-prop-273c413f7a5340498974b5b86b799f49
+* author:	Denis_Niko (https://sketchfab.com/denisniko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tablet prop" (https://sketchfab.com/3d-models/tablet-prop-273c413f7a5340498974b5b86b799f49) by Denis_Niko (https://sketchfab.com/denisniko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
